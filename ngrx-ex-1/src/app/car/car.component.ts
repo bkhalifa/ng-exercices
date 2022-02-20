@@ -5,9 +5,9 @@ import { LogService } from './log.service';
 
 //change made after master , after branch feature A
 
-// this is froù the branch : check this out
+// this is from the branch : check this out
 
-// chnage 2 master
+// change 2 master
 @Component({
   selector: 'pm-car',
   templateUrl: './car.component.html',
