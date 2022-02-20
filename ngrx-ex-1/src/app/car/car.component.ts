@@ -3,6 +3,7 @@ import { CustomLog, ICustomLog } from '../shared/CustomLog';
 import { CUSTOM_LOG, DATE_NOW } from '../shared/token';
 import { LogService } from './log.service';
 
+//change made after master , after branch feature A
 
 @Component({
   selector: 'pm-car',
