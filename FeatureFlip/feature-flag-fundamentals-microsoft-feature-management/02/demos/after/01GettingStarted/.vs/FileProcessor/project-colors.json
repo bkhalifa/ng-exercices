@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "3d453425-258f-4c54-8902-70fd40e0f51d": {
+      "ProjectGuid": "3d453425-258f-4c54-8902-70fd40e0f51d",
+      "DisplayName": "FileProcessor",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
